@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Saily</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="previous">Previous</string>
+
+    <string name="bio">
+        \u0020 \u0020 \u0020 \u0020 Hello there I am Saily Jadhav, a tech enthusiast with a penchant for creativity and continuous learning. My educational journey has been quite diverse, starting with a Bachelors degree in Information Technology (BE IT), followed by a Masters in Information Management, and currently, I am pursuing another Masters degree, this time in Computer Science. My passion for technology has only deepened over the years, driving me to stay updated with the latest advancements in the field. \n
+        \u0020 \u0020 \u0020 \u0020 Before making my way to the United States, I had the opportunity to work as a Frontend Development Lead at Ness Technologies. It was an exciting role where I had the chance to lead various projects, including ones for renowned clients like Pearson and S&amp;P Global. \n
+        \u0020 \u0020 \u0020 \u0020 Outside the realm of technology, you\'ll often find me indulging in my creative pursuits. I have a deep love for singing, which allows me to express myself in ways that coding simply can\'t. Additionally, I thrive on the thrill of road trips, where I can explore new places and unwind amidst nature\'s beauty. \n
+        \n Thank you!
+    </string>
+
+    <string name="hobby">
+        Here are my hobbies: \n \n
+        \u2022 Singing \n
+        \u2022 Road trips \n
+        \u2022 Hiking \n
+        \u2022 Painting \n
+        \u2022 Exercising in the gym \n
+
+    </string>
+
+    <string name="mail">
+        My email is SJ80409N@pace.edu!
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
