@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer!</h3>
 
 - 🔭 I’m currently working on **developing mobile applications and projects using React**
+- Studying [Computer Science](https://www.youtube.com/watch?v=X74Xw6EEp2U) at Pace University, NYC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
