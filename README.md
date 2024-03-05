@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saily Jadhav</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<h3 align="center">This is CS639 (Mobile Application Development) class work repo.</h3>
 
-- 🔭 I’m currently working on **developing mobile applications and projects using React**
+- 🔭 Here you will find me posting the projects on mobile app development using **Kotlin and Java.**
 - Studying [Computer Science](https://www.youtube.com/watch?v=X74Xw6EEp2U) at Pace University, NYC
 
 <h3 align="left">Connect with me:</h3>
