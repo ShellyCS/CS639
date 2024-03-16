@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MidtermSailyJadhav</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Convert Liters in Gallons</string>
+    <string name="convert">Convert</string>
+
+    <string name="app_creater"><u>
+        This app was developed by Saily Jadhav</u>
+    </string>
+
+    <string name="gallons">Gallons</string>
+</resources>
