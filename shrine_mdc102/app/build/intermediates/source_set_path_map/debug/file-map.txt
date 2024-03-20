@@ -1,0 +1,16 @@
+com.google.codelabs.mdc.java.shrine.app-appcompat-1.1.0-alpha03-0 C:\Users\SJJ77\.gradle\caches\transforms-4\11d3a58d45e0feba076530d50c3ded19\transformed\appcompat-1.1.0-alpha03\res
+com.google.codelabs.mdc.java.shrine.app-jetified-appcompat-resources-1.1.0-alpha03-1 C:\Users\SJJ77\.gradle\caches\transforms-4\2ff86d527c7998c44f59de89f6077682\transformed\jetified-appcompat-resources-1.1.0-alpha03\res
+com.google.codelabs.mdc.java.shrine.app-coordinatorlayout-1.1.0-alpha01-2 C:\Users\SJJ77\.gradle\caches\transforms-4\54cd9bdf3bdddcee6a20d1281e484ce3\transformed\coordinatorlayout-1.1.0-alpha01\res
+com.google.codelabs.mdc.java.shrine.app-core-1.1.0-alpha05-3 C:\Users\SJJ77\.gradle\caches\transforms-4\77094bc25c22d57a7e9544dbf0226f7c\transformed\core-1.1.0-alpha05\res
+com.google.codelabs.mdc.java.shrine.app-transition-1.0.1-4 C:\Users\SJJ77\.gradle\caches\transforms-4\862c717503916c958986dd6e5e599e12\transformed\transition-1.0.1\res
+com.google.codelabs.mdc.java.shrine.app-media-1.0.0-5 C:\Users\SJJ77\.gradle\caches\transforms-4\908122f1c4a272561d9a9f2c08459895\transformed\media-1.0.0\res
+com.google.codelabs.mdc.java.shrine.app-jetified-viewpager2-1.0.0-alpha02-6 C:\Users\SJJ77\.gradle\caches\transforms-4\bab0804268033cfad8de847d3d4f6454\transformed\jetified-viewpager2-1.0.0-alpha02\res
+com.google.codelabs.mdc.java.shrine.app-recyclerview-1.1.0-alpha03-7 C:\Users\SJJ77\.gradle\caches\transforms-4\c5df30b42e1ce7d57933be41d81ad789\transformed\recyclerview-1.1.0-alpha03\res
+com.google.codelabs.mdc.java.shrine.app-cardview-1.0.0-8 C:\Users\SJJ77\.gradle\caches\transforms-4\e96d21cc77ac5de82f1a756baec15c62\transformed\cardview-1.0.0\res
+com.google.codelabs.mdc.java.shrine.app-material-1.1.0-alpha06-9 C:\Users\SJJ77\.gradle\caches\transforms-4\f43d55eb28b4438cdb2de5dd49db0a5e\transformed\material-1.1.0-alpha06\res
+com.google.codelabs.mdc.java.shrine.app-resValues-10 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\build\generated\res\resValues\debug
+com.google.codelabs.mdc.java.shrine.app-packageDebugResources-11 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.google.codelabs.mdc.java.shrine.app-packageDebugResources-12 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.google.codelabs.mdc.java.shrine.app-merged_res-13 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\build\intermediates\merged_res\debug
+com.google.codelabs.mdc.java.shrine.app-debug-14 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\src\debug\res
+com.google.codelabs.mdc.java.shrine.app-main-15 C:\Users\SJJ77\CS-639\CS639\shrine_mdc102\shrine\app\src\main\res

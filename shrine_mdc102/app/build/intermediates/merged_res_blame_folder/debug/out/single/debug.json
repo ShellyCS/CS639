@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.google.codelabs.mdc.java.shrine.app-merged_res-14:/raw_products.json.flat",
+        "source": "com.google.codelabs.mdc.java.shrine.app-main-16:/raw/products.json"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_close_menu.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_close_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\raw_products.json.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\raw\\products.json"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_login_fragment.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_main_activity.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_staggered_product_card_second.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_staggered_product_card_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_filter.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_staggered_product_card_first.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_staggered_product_card_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_menu.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_search.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_branded_menu.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_branded_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_product_card.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_product_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\animator_shr_next_button_state_list_anim.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\animator\\shr_next_button_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_staggered_product_card_third.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_staggered_product_card_third.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_product_grid_background_shape.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_product_grid_background_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\layout_shr_product_grid_fragment.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\layout\\shr_product_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\menu_shr_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\menu\\shr_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\drawable_shr_logo.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\drawable\\shr_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-merged_res-14:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\SJJ77\\.gradle\\daemon\\8.7-rc-1\\com.google.codelabs.mdc.java.shrine.app-main-16:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
